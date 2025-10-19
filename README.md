@@ -1,2 +1,1 @@
-# week3
-sample project 
+This is a python project with Dr. Promise
